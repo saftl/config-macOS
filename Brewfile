@@ -1,5 +1,6 @@
 brew "bitwarden-cli"
 brew "coreutils"
+brew "db-browser-for-sqlite"
 brew "findutils"
 brew "git"
 brew "htop"
